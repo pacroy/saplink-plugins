@@ -16,7 +16,7 @@ Clone or import using [abapGit](https://github.com/larshp/abapGit)
 
 ## Related Links
 
-* [SAPlink](https://gitlab.com/pacroy/sap-saplink) (abapGit Repository)
+* [SAPlink](https://github.com/pacroy/saplink) (abapGit Repository)
 
 ---
 
